@@ -1,0 +1,30 @@
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\bin\Debug\net5.0\NetElitres.Application.deps.json
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\bin\Debug\net5.0\NetElitres.Application.dll
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\bin\Debug\net5.0\NetElitres.Application.pdb
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\bin\Debug\net5.0\NetElites.Domain.dll
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\bin\Debug\net5.0\NetElites.Domain.pdb
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.csproj.AssemblyReference.cache
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.AssemblyInfoInputs.cache
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.AssemblyInfo.cs
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.csproj.CopyComplete
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.dll
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\obj\Debug\net5.0\refint\NetElitres.Application.dll
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.pdb
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElitres.Application\obj\Debug\net5.0\ref\NetElitres.Application.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\bin\Debug\net5.0\NetElitres.Application.deps.json
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\bin\Debug\net5.0\NetElitres.Application.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\bin\Debug\net5.0\ref\NetElitres.Application.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\bin\Debug\net5.0\NetElitres.Application.pdb
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\bin\Debug\net5.0\NetElites.Domain.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\bin\Debug\net5.0\NetElites.Domain.pdb
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.csproj.AssemblyReference.cache
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.AssemblyInfoInputs.cache
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.AssemblyInfo.cs
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.csproj.CoreCompileInputs.cache
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.csproj.CopyComplete
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\obj\Debug\net5.0\ref\NetElitres.Application.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElitres.Application\obj\Debug\net5.0\NetElitres.Application.pdb

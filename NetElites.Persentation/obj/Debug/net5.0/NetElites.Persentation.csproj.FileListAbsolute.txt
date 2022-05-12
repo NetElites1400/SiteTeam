@@ -1,0 +1,34 @@
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.csproj.AssemblyReference.cache
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.AssemblyInfoInputs.cache
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.AssemblyInfo.cs
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.csproj.CoreCompileInputs.cache
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElites.Persentation.deps.json
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElites.Persentation.dll
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElites.Persentation.pdb
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElites.Domain.dll
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElitres.Application.dll
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElitres.Application.pdb
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElites.Domain.pdb
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.csproj.CopyComplete
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.dll
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\obj\Debug\net5.0\refint\NetElites.Persentation.dll
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.pdb
+C:\Users\Hi tech\Desktop\New folder (2)\NetElites\NetElites.Persentation\obj\Debug\net5.0\ref\NetElites.Persentation.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElites.Persentation.deps.json
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElites.Persentation.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\bin\Debug\net5.0\ref\NetElites.Persentation.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElites.Persentation.pdb
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElites.Domain.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElitres.Application.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElitres.Application.pdb
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\bin\Debug\net5.0\NetElites.Domain.pdb
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.csproj.AssemblyReference.cache
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.AssemblyInfoInputs.cache
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.AssemblyInfo.cs
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.csproj.CoreCompileInputs.cache
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.csproj.CopyComplete
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\obj\Debug\net5.0\ref\NetElites.Persentation.dll
+C:\Users\Parsin CO\Desktop\NetElites\NetElites.Persentation\obj\Debug\net5.0\NetElites.Persentation.pdb
