@@ -10,6 +10,8 @@ using Microsoft.Extensions.Hosting;
 using NetElites.Domain.Model.Users;
 using NetElites.EndPoint.Data;
 using NetElites.Infrastucture.MappingProfile;
+using NetElitres.Application.Repository;
+using NetElitres.Application.Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -38,6 +40,12 @@ namespace NetElites.EndPoint
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             #endregion
             #region Ioc
+            services.AddScoped<IApplicationDbContext, ApplicationDbContext>();
+            services.AddScoped<IArticleRepository, ArticleService>();
+            services.AddScoped<ICommentRepository, CommentService>();
+            services.AddScoped<IMemberRespoitory, MemberService>();
+            services.AddScoped<ISeoRepository, SeoService>();
+            services.AddScoped<IWorksampleRepository, WorksampleService>();
             // automapper
             services.AddAutoMapper(typeof(CatalogMappingProfile));
             #endregion

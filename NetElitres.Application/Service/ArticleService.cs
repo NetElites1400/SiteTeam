@@ -23,7 +23,7 @@ namespace NetElitres.Application.Service
             _mapper = mapper;
         }
 
-        public async Task Add(ArticlesDto articlesDto)
+        public async Task Add(AddArticlesDto articlesDto)
         {
             var article = _mapper.Map<Article>(articlesDto);
             await _context.articles.AddAsync(article);
@@ -35,6 +35,7 @@ namespace NetElitres.Application.Service
             var article = await FindArticle(id);
             if (article != null)
             {
+                _context.articles.Remove(article);
                 await _context.SaveChangesAsync();
                 return true;
             }
@@ -90,7 +91,7 @@ namespace NetElitres.Application.Service
         {
             var article = await FindArticle(id);
             if (article != null)
-            {
+            {       
                 var articalModel = _mapper.Map(articlesDto,article);
                 _context.articles.Update(articalModel);
                 await _context.SaveChangesAsync();

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Parsin CO\\Desktop\\NetElites\\NetElites.Comman\\NetElites.Comman.csproj": {}
+    "C:\\Users\\Hi tech\\Desktop\\NetElites\\NetElites.Comman\\NetElites.Comman.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Parsin CO\\Desktop\\NetElites\\NetElites.Comman\\NetElites.Comman.csproj": {
+    "C:\\Users\\Hi tech\\Desktop\\NetElites\\NetElites.Comman\\NetElites.Comman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Parsin CO\\Desktop\\NetElites\\NetElites.Comman\\NetElites.Comman.csproj",
+        "projectUniqueName": "C:\\Users\\Hi tech\\Desktop\\NetElites\\NetElites.Comman\\NetElites.Comman.csproj",
         "projectName": "NetElites.Comman",
-        "projectPath": "C:\\Users\\Parsin CO\\Desktop\\NetElites\\NetElites.Comman\\NetElites.Comman.csproj",
-        "packagesPath": "C:\\Users\\Parsin CO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Parsin CO\\Desktop\\NetElites\\NetElites.Comman\\obj\\",
+        "projectPath": "C:\\Users\\Hi tech\\Desktop\\NetElites\\NetElites.Comman\\NetElites.Comman.csproj",
+        "packagesPath": "C:\\Users\\Hi tech\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hi tech\\Desktop\\NetElites\\NetElites.Comman\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Parsin CO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hi tech\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

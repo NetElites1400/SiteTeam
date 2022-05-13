@@ -28,6 +28,9 @@ namespace NetElites.Domain.Model.Worksamples
         [MinLength(3, ErrorMessage = "{0} نباید از {1} کارکتر کمتر باشد")]
         [MaxLength(20, ErrorMessage = "{0} نباید از {1} کارکتر بیشتر باشد")]
         public string Type { get; private set; }
+        [Display(Name = "عکس نمونه کار")]
+        [Required(ErrorMessage = " {0} را لطفا وارد کنید")]
+        public string UriImage { get; set; }
         private readonly List<Comment> comments = new List<Comment>();
         public Worksample(string Title, string Description, string Type)
         {
