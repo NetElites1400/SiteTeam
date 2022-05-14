@@ -22,3 +22,15 @@ C:\Users\Parsin CO\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\NetElites
 C:\Users\Parsin CO\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\NetElites.Domain.dll
 C:\Users\Parsin CO\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\ref\NetElites.Domain.dll
 C:\Users\Parsin CO\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\NetElites.Domain.pdb
+C:\Users\Hi tech\Desktop\NetElites\NetElites.Doamin\bin\Debug\net5.0\NetElites.Domain.deps.json
+C:\Users\Hi tech\Desktop\NetElites\NetElites.Doamin\bin\Debug\net5.0\NetElites.Domain.dll
+C:\Users\Hi tech\Desktop\NetElites\NetElites.Doamin\bin\Debug\net5.0\NetElites.Domain.pdb
+C:\Users\Hi tech\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\NetElites.Domain.csproj.AssemblyReference.cache
+C:\Users\Hi tech\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\NetElites.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi tech\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\NetElites.Domain.AssemblyInfoInputs.cache
+C:\Users\Hi tech\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\NetElites.Domain.AssemblyInfo.cs
+C:\Users\Hi tech\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\NetElites.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hi tech\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\NetElites.Domain.dll
+C:\Users\Hi tech\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\refint\NetElites.Domain.dll
+C:\Users\Hi tech\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\NetElites.Domain.pdb
+C:\Users\Hi tech\Desktop\NetElites\NetElites.Doamin\obj\Debug\net5.0\ref\NetElites.Domain.dll

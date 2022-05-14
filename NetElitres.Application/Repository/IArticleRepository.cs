@@ -12,7 +12,7 @@ namespace NetElitres.Application.Repository
     {
         Task<ArticlesDto> GetArticleById(int id);
         Task<IEnumerable<ArticlesDto>> GetAllArticles();
-        Task Add(ArticlesDto articlesDto);
+        Task Add(AddArticlesDto articlesDto);
         Task<Article> FindArticle(int id);
         Task<bool> Update(int id,ArticlesDto articlesDto);
         Task<bool> Delete(int id);
